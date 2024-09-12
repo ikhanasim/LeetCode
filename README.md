@@ -7,9 +7,9 @@ Java | DSA | Oops| MtSQL
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ikhanasim&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikhanasim&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhanasim&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 ### ✍️Random Dev Quote
