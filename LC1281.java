@@ -1,5 +1,5 @@
 
-//    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
+//     https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
 
 import java.util.Scanner;
 public class LC1281 {
