@@ -5,7 +5,7 @@
 import java.util.Arrays;
 public class LC034 {
     public static void main(String[] args){
-    int[] nums= {2,2};
+    int[] nums= {1,2,2,2,2,4};
     int target=2;
         System.out.println(Arrays.toString(searchRange(nums,target)));
     }
@@ -15,7 +15,7 @@ public class LC034 {
         result[1] = SecondRange(nums,target);
         return result;
     }
-    public static int FirstRange(int nums[] ,int target){
+    public static int FirstRange(int[] nums ,int target){
         int start=0;
         int end=nums.length-1;
         int first=-1;
@@ -34,7 +34,7 @@ public class LC034 {
         }
         return first;
     }
-    public static int SecondRange(int nums[] , int target){
+    public static int SecondRange(int[] nums , int target){
         int start=0;
         int end=nums.length-1;
         int last=-1;
